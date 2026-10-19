@@ -1,40 +1,94 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>I’m currently completing my pre-professional internship at Fenix Corp, where I work with modern technologies such as Next.js, Vue, Python, and JavaScript. I contribute to web application development, focusing on clean structure, maintainable code, and scalable solutions.<br><br>👯 I’m looking to collaborate on<br>I’m open to collaborating on projects related to Artificial Intelligence, Web Development, Mobile Development, and Cybersecurity. I’m especially interested in innovative solutions that combine strong architecture with real-world impact.<br><br>🤝 I’m looking for help with<br>I’m looking to improve my skills in Software Architecture and Machine Learning, particularly in designing scalable systems and applying intelligent models effectively within production environments.<br><br>🌱 I’m currently learning<br>I’m currently deepening my knowledge in Clean Architecture, advanced Next.js patterns, and Machine Learning concepts to strengthen both my theoretical foundation and practical implementation skills.<br><br>💬 Ask me about<br>Ask me about Mobile Development, Web Development, and Database Design. I have solid experience building structured, functional, and well-organized systems across different environments and technologies.<br><br>⚡ Fun fact<br>I’m a naturally curious developer who enjoys researching new technologies, experimenting with different environments, and constantly challenging myself to learn and improve. I believe growth comes from exploration and continuous learning.
+# Hi there, I'm Danilo Tapia 👋
 
+<p align="left">
+  <strong>Software Engineering Student @ ESPE (Final Semester | GPA 17.64/20)</strong><br>
+  <em>Full-Stack Developer specialized in Modern Web, Generative AI (RAG) & Mobile Applications</em>
+</p>
 
-## 🌐 Socials:
-<p><a target="_blank" href="https://www.linkedin.com/in/danilo-tapia-9a1677373" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p><p>
-  <a href="mailto:dantapcon@gmail.com" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-dantapcon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/danilotapiaa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-danilotapiaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p> 
-## ⭐ Featured Projects:
+  <a href="mailto:dantapcon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dantapcon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Latacunga%2C%20Ecuador-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-### 📱 Mobile Development (Flutter)
-- [**app-flutter-catalogo-firebase**](https://github.com/danilotapiaa/app-flutter-catalogo-firebase) — Aplicación móvil en Flutter integrada con Firebase para catálogo interactivo de productos.
-- [**app-flutter-gestion-oftalmologica**](https://github.com/danilotapiaa/app-flutter-gestion-oftalmologica) — Sistema móvil en Flutter para gestión clínica, citas y registro de fichas oftalmológicas.
+---
 
-### 🌐 Fullstack Web Development
-- [**generador-sitios-empresas-supabase**](https://github.com/danilotapiaa/generador-sitios-empresas-supabase) — Plataforma fullstack para generación y administración dinámica de sitios web empresariales con Supabase.
-- [**crm-astro-gestion-clientes**](https://github.com/danilotapiaa/crm-astro-gestion-clientes) — Sistema CRM ligero y de alto rendimiento desarrollado con Astro para control comercial y clientes.
+### 🏆 Honors & Hackathon Achievements
+- 🥇 **Winner @ MediaHack II (2026)**: Developed **LODICHO**, an AI-powered electoral disinformation verification platform combining **Next.js 15, React 19, TypeScript, RAG, and Qdrant** vector database with dual guardrails and offline resilience (Organized by UNESCO, Openlab Ecuador, KAS Ecuador, and UTPL). Currently in technical incubation.
+- 🏆 **1st Place Winner & Team Leader @ Gamer Fest 2025**: Advanced competitive programming and algorithmic problem-solving competition at ESPE University.
+- 🎖️ **Distinguished / Honorary Member @ IEEE ESPE Student Branch**: Active collaborator in software engineering community projects, technical leadership, and student research.
 
-### 🛠️ Software Quality & Best Practices
-- [**sonarqube-demo-app**](https://github.com/danilotapiaa/sonarqube-demo-app) — Demostración práctica de análisis estático continuo, métricas de mantenibilidad y cobertura con SonarQube.
-- [**bitacora-ingenieria**](https://github.com/danilotapiaa/bitacora-ingenieria) — Bitácora técnica de ingeniería de software: estándares arquitecturales, patrones y calidad de desarrollo.
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=danilotapiaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💼 Experience & Focus Areas
+- 🔭 **Current Work & Internship**: Completing pre-professional engineering at **Fenix Corp**, developing scalable web applications with Next.js, Vue, Python, and JavaScript under clean code architecture.
+- 🤖 **Generative AI & Architecture**: Practical experience designing and implementing **Retrieval-Augmented Generation (RAG)** systems, vector databases (Qdrant), prompt guardrails, and Clean Architecture patterns.
+- 📱 **Mobile Development**: Crafting cross-platform apps using **Flutter & Dart**, integrating cloud backends (Firebase, Supabase) and local persistence (SQLite).
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danilotapiaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⭐ Featured Repositories
 
+#### 🤖 AI & Full-Stack Platforms
+- [**securepixel-educativo-frontend-final**](https://github.com/danilotapiaa/securepixel-educativo-frontend-final) — AI-powered cybersecurity educational platform with adaptive learning, emotion/stress detection, and intuitive UX/UI in Next.js.
+- [**generador-sitios-empresas-supabase**](https://github.com/danilotapiaa/generador-sitios-empresas-supabase) — Fullstack enterprise website builder and dynamic content manager powered by TypeScript and Supabase.
+- [**crm-astro-gestion-clientes**](https://github.com/danilotapiaa/crm-astro-gestion-clientes) — High-performance commercial CRM and customer relationship dashboard built with Astro and JavaScript.
 
+#### 📱 Mobile Engineering (Flutter & Dart)
+- [**app-flutter-catalogo-firebase**](https://github.com/danilotapiaa/app-flutter-catalogo-firebase) — Interactive product catalog mobile application integrated with Firebase backend and real-time syncing.
+- [**app-flutter-gestion-oftalmologica**](https://github.com/danilotapiaa/app-flutter-gestion-oftalmologica) — Mobile healthcare system for ophthalmology appointment scheduling, clinical history, and patient records.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 🛠️ Code Quality & Engineering Best Practices
+- [**sonarqube-demo-app**](https://github.com/danilotapiaa/sonarqube-demo-app) — Continuous code quality pipeline demonstration, static analysis, coverage, and maintainability metrics using SonarQube.
+- [**bitacora-ingenieria**](https://github.com/danilotapiaa/bitacora-ingenieria) — Technical software engineering logbook: architecture standards, clean code principles, and design patterns (MIT License).
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Frontend & Mobile:**  
+![Next.js](https://img.shields.io/badge/Next.js%2015-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Backend, AI & RAG:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Databases & Quality:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=danilotapiaa&theme=dark&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danilotapiaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
