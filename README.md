@@ -83,12 +83,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=danilotapiaa&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=danilotapiaa&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilotapiaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danilotapiaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=danilotapiaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
